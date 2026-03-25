@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Expedientes",
+  "description": "Aplicación de gestión de tareas basada en expedientes con semáforo de cumplimiento y reportes diarios.",
+  "requestFramePermissions": []
+}
